@@ -51,13 +51,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irgiadit7/irgiadit7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irgiadit7/irgiadit7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/irgiadit7/irgiadit7/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="left">🌐 Connect with Me</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/irgi-adit-pratama/" target="_blank">
@@ -72,6 +66,15 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irgiadit7/irgiadit7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irgiadit7/irgiadit7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/irgiadit7/irgiadit7/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
