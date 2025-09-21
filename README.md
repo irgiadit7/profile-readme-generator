@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Full Stack Developer passionate about sharing my journey and learnings in tech <!-- <br>🎥 Creating and sharing content about programming, web development, and productivity <br>🌱 learninginpublic while building personal projects and exploring new tech <br>📊 Currently focusing on AI, Machine Learning, and AI Engineering --></p>
+<p align="left"><!--💻 --> Full Stack Developer passionate about sharing my journey and learnings in tech <!-- <br>🎥 Creating and sharing content about programming, web development, and productivity <br>🌱 learninginpublic while building personal projects and exploring new tech <br>📊 Currently focusing on AI, Machine Learning, and AI Engineering --></p>
 
 ###
 
@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=irgiadit7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irgiadit7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-![irgiadit7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irgiadit7&theme=dracula&hide_border=false)
+<!-- ![irgiadit7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irgiadit7&theme=dracula&hide_border=false) -->
 
   <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irgiadit7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div> 
